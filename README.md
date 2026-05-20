@@ -3,8 +3,8 @@ Gestores de Bases de Datos y su Importancia en el Manejo de la Información
 # Tema: Gestores de Bases de Datos y su Importancia en el Manejo de la Información
 
 ## Nombre del Estudiante
-- Nombre completo:
-- Carrera:
+- Nombre completo: Briseida Cruz
+- Carrera: Ciber
 - Universidad:
 - Correo institucional:
 
